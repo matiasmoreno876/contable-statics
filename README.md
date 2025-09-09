@@ -2,6 +2,8 @@
 
 <h4>Estructura de contenido estático:</h4>
 
+### Antes de comenzar, recordar que podes apretar la tecla del punto '.' para abrir el vscode en la web y asi trabajar mas rapido y comodo
+
 <h4>¿De qué trata?</h4>
 
 Este documento explica como subir contenido estático (ej, imágenes) y disponibilizarlo por medio de Github.
