@@ -2,6 +2,8 @@
 
 ### Antes de comenzar, recordar que podes apretar la tecla del punto '.' para abrir el vscode en la web y asi trabajar mas rapido y comodo
 
+## Si queres descargar mas imagenes de ilustrasiones para iconos podes usar esta pagina https://www.thiings.co/things la misma son las que usan las imagenes de flivo
+
 <h4>Estructura de contenido estático:</h4>
 
 <h4>¿De qué trata?</h4>
