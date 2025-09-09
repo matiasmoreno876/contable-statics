@@ -1,8 +1,8 @@
 <h2><b>Static Content</b></h2>
 
-<h4>Estructura de contenido estático:</h4>
-
 ### Antes de comenzar, recordar que podes apretar la tecla del punto '.' para abrir el vscode en la web y asi trabajar mas rapido y comodo
+
+<h4>Estructura de contenido estático:</h4>
 
 <h4>¿De qué trata?</h4>
 
